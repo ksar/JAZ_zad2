@@ -1,0 +1,15 @@
+/opt/devel/workspace/zad2/src/main/java/domain/ConferenceApplication.java
+/opt/devel/workspace/zad2/src/main/java/web/filters/MainPageFilter.java
+/opt/devel/workspace/zad2/src/main/java/repositories/DummyConferenceApplicationRepository.java
+/opt/devel/workspace/zad2/src/main/java/servlets/ProfilServlet.java
+/opt/devel/workspace/zad2/src/main/java/web/AddServlet.java
+/opt/devel/workspace/zad2/src/main/java/web/filters/PremiumPageFilter.java
+/opt/devel/workspace/zad2/src/main/java/web/filters/AddPageFilter.java
+/opt/devel/workspace/zad2/src/main/java/repositories/ConferenceApplicationRepository.java
+/opt/devel/workspace/zad2/src/main/java/domain/menu.java
+/opt/devel/workspace/zad2/src/main/java/servlets/SetPremiumServlet.java
+/opt/devel/workspace/zad2/src/main/java/web/filters/SetPremiumPageFilter.java
+/opt/devel/workspace/zad2/src/main/java/servlets/ListServlet.java
+/opt/devel/workspace/zad2/src/main/java/repositories/HsqlRepo.java
+/opt/devel/workspace/zad2/src/main/java/servlets/PremiumServlet.java
+/opt/devel/workspace/zad2/src/main/java/servlets/LoginServlet.java
